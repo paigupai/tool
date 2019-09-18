@@ -1,6 +1,6 @@
 # tool
 ***
-###ATOM   
+##ATOM   
 [proxy設定](https://selifelog.com/blog-entry-1694.html)
 > Packages
 >> https://atom.io/packages/japanese-menu  
