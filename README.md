@@ -12,4 +12,5 @@
 [快速搭建一个自己的VPN翻墙科学上网,搭建ss并开启bbr快速上网](https://github.com/wistbean/vpn)  
 [常用 JavaScript 正则表达式（regexp）汇编与示例](https://www.v2ex.com/t/558516#reply2)  
 [ip检测](http://ping.pe/)  
-[各种ssr教程](https://ssr.tools/)
+[各种ssr教程](https://ssr.tools/)   
+[摸鱼v2ex](https://www.v2ex.com/)
