@@ -1,6 +1,6 @@
 # tool
 ***
-#### ATOM   
+### ATOM   
 [proxy設定](https://selifelog.com/blog-entry-1694.html)
 > Packages
 >> https://atom.io/packages/japanese-menu  
@@ -9,6 +9,7 @@
 >> [震撼](https://atom.io/packages/activate-power-mode)   
 >> [高亮](https://atom.io/packages/quick-highlight)  
 
+### 常用工具 
 [快速搭建一个自己的VPN翻墙科学上网,搭建ss并开启bbr快速上网](https://github.com/wistbean/vpn)  
 [常用 JavaScript 正则表达式（regexp）汇编与示例](https://www.v2ex.com/t/558516#reply2)  
 [ip检测](http://ping.pe/)  
@@ -24,5 +25,7 @@
 [MarkDown写法](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)   
 [magi搜索](https://magi.com/)   
 
+### swift
+[SwiftUI 里的属性装饰器](https://www.cnblogs.com/xiaoniuzai/p/11417123.html)   
 
 
