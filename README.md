@@ -24,6 +24,7 @@
 [IT用語辞典](https://wa3.i-3-i.info/index.html)  
 [MarkDown写法](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)   
 [magi搜索](https://magi.com/)   
+[在线PS](https://www.photopea.com/)    
 
 ### swift
 [SwiftUI 里的属性装饰器](https://www.cnblogs.com/xiaoniuzai/p/11417123.html)   
