@@ -32,7 +32,7 @@
 [postman APIリクエスト](https://www.getpostman.com/)  
 [Talend API Tester - Free Edition 浏览器API测试插件](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)  
 [PythonとSeleniumでブラウザを自動操作する方法まとめ](https://tanuhack.com/selenium/)  
-[代理](https://proxy.mimvp.com/)[用法](https://github.com/mimvp/mimvp-proxy-demo)  
+[代理](https://proxy.mimvp.com/)和[用法](https://github.com/mimvp/mimvp-proxy-demo)  
 [puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ### swift
