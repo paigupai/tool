@@ -26,12 +26,14 @@
 [magi搜索](https://magi.com/)   
 [在线PS](https://www.photopea.com/)    
 [gitpod在线IDE](https://www.gitpod.io/)  
+[思维导图coggle](https://coggle.it/)  
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
 [Talend API Tester - Free Edition 浏览器API测试插件](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)  
 [PythonとSeleniumでブラウザを自動操作する方法まとめ](https://tanuhack.com/selenium/)  
-[代理](https://proxy.mimvp.com/)  
+[代理](https://proxy.mimvp.com/)[用法](https://github.com/mimvp/mimvp-proxy-demo)  
+[puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ### swift
 [SwiftUI 里的属性装饰器](https://www.cnblogs.com/xiaoniuzai/p/11417123.html)   
