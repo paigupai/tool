@@ -28,7 +28,8 @@
 [gitpod在线IDE](https://www.gitpod.io/)  
 [思维导图coggle](https://coggle.it/)  
 [奶牛快传](https://cowtransfer.com/)  
-[uTools](https://u.tools/)
+[uTools:极简、插件化、跨平台的插件工具集合。](https://u.tools/)  
+[Server酱:务器推报警和日志到手机的工具](http://sc.ftqq.com/3.version)  
 
 
 ### 爬虫
