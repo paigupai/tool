@@ -31,6 +31,7 @@
 [uTools:极简、插件化、跨平台的插件工具集合。](https://u.tools/)  
 [Server酱:务器推报警和日志到手机的工具](http://sc.ftqq.com/3.version)  
 [github用浏览器插件](https://github.com/ovity/octotree)
+[接口大全](https://www.free-api.com/?type=apifrom&val=0,https://github.com/fangzesheng/free-api)  
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
