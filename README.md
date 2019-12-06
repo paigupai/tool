@@ -21,7 +21,7 @@
 [日语垃圾命名](https://codic.jp/engine)   
 [codelf命名](https://unbug.github.io/codelf/)   
 [图片转字符画](https://tomcat.blog/)  
-[IT用語辞典](https://wa3.i-3-i.info/index.html)  
+[IT用語辞典📖](https://wa3.i-3-i.info/index.html)  
 [MarkDown写法](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)   
 [magi搜索](https://magi.com/)   
 [在线PS](https://www.photopea.com/)    
@@ -32,6 +32,8 @@
 [Server酱:务器推报警和日志到手机的工具](http://sc.ftqq.com/3.version)  
 [github用浏览器插件](https://github.com/ovity/octotree)  
 [接口大全](https://www.free-api.com/?type=apifrom&val=0,https://github.com/fangzesheng/free-api)  
+[导航工具🔧](https://caocao.boxopened.com/)  
+
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
