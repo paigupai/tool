@@ -51,5 +51,5 @@
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
 
 ### 前端
-[炫酷动画特效](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)  
+[炫酷动画特效🧙‍](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)  
 
