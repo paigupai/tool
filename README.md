@@ -42,10 +42,11 @@
 [代理](https://proxy.mimvp.com/)和[用法](https://github.com/mimvp/mimvp-proxy-demo)  
 [puppeteer](https://github.com/GoogleChrome/puppeteer)
 
-### swift
+### swift&objective-c
 [SwiftUI 里的属性装饰器](https://www.cnblogs.com/xiaoniuzai/p/11417123.html)   
 [CocoaPodsインストール](https://www.jianshu.com/p/476f4f21816b)   
-[learn swift](https://www.hackingwithswift.com/)
+[learn swift](https://www.hackingwithswift.com/)  
+[画面遷移方法:StoryboardのSegue](https://qiita.com/hituziando/items/9f46a43c8162043eff34)  
 
 ### java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
