@@ -51,6 +51,7 @@
 [ios实现Radio Button](https://github.com/DavydLiu/DLRadioButton)[   用法](https://www.youtube.com/watch?v=tQl_eOzcShw)  
 [【Swift】UIViewController ライフサイクル 簡易説明書](https://blog.77jp.net/swift-uiviewcontroller-life-cycle)  
 [More-iOS开发中的页面传值方式相关内容总结](https://juejin.im/post/5adeb5c56fb9a07a9f012e6f)  
+[ViewController間で遷移する方法（複数アニメーション付き）](https://www.yoheim.net/blog.php?q=20160611)  
 
 
 ### java
