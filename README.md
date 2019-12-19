@@ -49,6 +49,9 @@
 [画面遷移方法:StoryboardのSegue](https://qiita.com/hituziando/items/9f46a43c8162043eff34)  
 [iOS中的Protocol](https://www.jianshu.com/p/2c67eebfaa3d)  
 [ios实现Radio Button](https://github.com/DavydLiu/DLRadioButton)[   用法](https://www.youtube.com/watch?v=tQl_eOzcShw)  
+[【Swift】UIViewController ライフサイクル 簡易説明書](https://blog.77jp.net/swift-uiviewcontroller-life-cycle)  
+[More-iOS开发中的页面传值方式相关内容总结](https://juejin.im/post/5adeb5c56fb9a07a9f012e6f)  
+
 
 ### java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
