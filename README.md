@@ -52,7 +52,7 @@
 [【Swift】UIViewController ライフサイクル 簡易説明書](https://blog.77jp.net/swift-uiviewcontroller-life-cycle)  
 [More-iOS开发中的页面传值方式相关内容总结](https://juejin.im/post/5adeb5c56fb9a07a9f012e6f)  
 [ViewController間で遷移する方法（複数アニメーション付き）](https://www.yoheim.net/blog.php?q=20160611)  
-
+[NavigationControllerとViewControllerの遷移/値の渡し方/受け取り方/戻り方まとめ](https://virusee.net/swift4-move-view/#st-toc-h-7)  
 
 ### java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
