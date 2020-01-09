@@ -36,6 +36,8 @@
 [高端大气上档次工作](https://japan-dev.com/)  
 [设计网站导航](http://chuangzaoshi.com/)  
 [墨刀🔪原型设计](https://modao.cc/features)  
+[天气☁️API](https://www.heweather.com/)  
+
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
