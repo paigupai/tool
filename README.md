@@ -34,7 +34,8 @@
 [接口大全](https://www.free-api.com/?type=apifrom&val=0,https://github.com/fangzesheng/free-api)  
 [导航工具🔧](https://caocao.boxopened.com/)  
 [高端大气上档次工作](https://japan-dev.com/)  
-[设计网站](http://chuangzaoshi.com/)  
+[设计网站导航](http://chuangzaoshi.com/)  
+[墨刀🔪原型设计](https://modao.cc/features)  
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
