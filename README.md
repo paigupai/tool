@@ -67,6 +67,7 @@
 [iOSDropDown](https://github.com/jriosdev/iOSDropDown)  
 [iOS中UITextField详解](https://www.jianshu.com/p/d9270a807397)  
 [100day of swift](http://www.ruanyifeng.com/blog/)  
+[HideShowPasswordTextField](https://github.com/Guidebook/HideShowPasswordTextField)  
 
 ### java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
