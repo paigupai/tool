@@ -42,13 +42,14 @@
 [vue-ele-form的可视化表单设计工具](https://github.com/dream2023/vue-ele-form-generator)  
 [航歌](https://www.hangge.com/)  
 [阮一峰博客](http://www.ruanyifeng.com/blog/)  
+[猴子都能懂得git入门](https://backlog.com/git-tutorial/cn/)  
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
 [Talend API Tester - Free Edition 浏览器API测试插件](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)  
 [PythonとSeleniumでブラウザを自動操作する方法まとめ](https://tanuhack.com/selenium/)  
 [代理](https://proxy.mimvp.com/)和[用法](https://github.com/mimvp/mimvp-proxy-demo)  
-[puppeteer](https://github.com/GoogleChrome/puppeteer)
+[puppeteer](https://github.com/GoogleChrome/puppeteer)  
 
 ### swift&objective-c
 [SwiftUI 里的属性装饰器](https://www.cnblogs.com/xiaoniuzai/p/11417123.html)   
