@@ -47,10 +47,13 @@
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
+[在Postman上模拟Chrome的请求](https://blog.csdn.net/difffate/article/details/54092067)  
 [Talend API Tester - Free Edition 浏览器API测试插件](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)  
 [PythonとSeleniumでブラウザを自動操作する方法まとめ](https://tanuhack.com/selenium/)  
 [代理](https://proxy.mimvp.com/)和[用法](https://github.com/mimvp/mimvp-proxy-demo)  
 [puppeteer](https://github.com/GoogleChrome/puppeteer)  
+[Selenium API](https://www.seleniumqref.com/api/webdriver_gyaku.html)  
+[Seleniumを使ってweb上の画像をスクレイピング](https://qiita.com/keigo_999/items/4766f552e5de6639427d)  
 
 ### swift&objective-c
 [SwiftUI 里的属性装饰器](https://www.cnblogs.com/xiaoniuzai/p/11417123.html)   
