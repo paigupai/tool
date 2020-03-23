@@ -77,6 +77,7 @@
 [IOS本地存储的四种方式](https://www.jianshu.com/p/b89d93b9c60c)  
 [iOS常用的动画总结](https://juejin.im/post/5c3f1be7e51d45677567651d)  
 [UIView Animations](https://www.jianshu.com/p/71f2fa270b9c)  
+[swift文章翻译](https://swift.gg/)  
 
 ### java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
