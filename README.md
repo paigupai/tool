@@ -29,7 +29,7 @@
 [思维导图coggle](https://coggle.it/)  
 [作图draw.io](https://www.draw.io/)  
 [作图ProcessOn](https://www.processon.com/)  
-[whimsical:在线画图的](https://whimsical.com/pricing)
+[whimsical:在线画图的](https://whimsical.com/pricing)  
 [奶牛快传](https://cowtransfer.com/)  
 [uTools:极简、插件化、跨平台的插件工具集合。](https://u.tools/)  
 [Server酱:务器推报警和日志到手机的工具](http://sc.ftqq.com/3.version)  
