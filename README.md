@@ -83,6 +83,7 @@
 [UIView Animations](https://www.jianshu.com/p/71f2fa270b9c)  
 [swift文章翻译](https://swift.gg/)  
 [qiita swift](https://qiita.com/tags/swift)  
+[Swift之Codable实战技巧](https://zhuanlan.zhihu.com/p/50043306)  
 
 ### java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
