@@ -46,7 +46,8 @@
 [阮一峰博客](http://www.ruanyifeng.com/blog/)  
 [猴子都能懂得git入门](https://backlog.com/git-tutorial/cn/)  
 [在线工具秘籍OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)  
-[online DB](https://sqliteonline.com/)
+[online DB](https://sqliteonline.com/)  
+[とほほの入門サイト](http://www.tohoho-web.com/www.htm)  
 
 ### 爬虫
 [postman APIリクエスト](https://www.getpostman.com/)  
