@@ -50,7 +50,8 @@
 [とほほの入門サイト](http://www.tohoho-web.com/www.htm)  
 
 ### 爬虫
-[postman APIリクエスト](https://www.getpostman.com/)  
+[postman:Http请求的工具](https://www.getpostman.com/)  
+[paw:类似于postman的mac环境的Http请求的工具](https://paw.cloud/)  
 [在Postman上模拟Chrome的请求](https://blog.csdn.net/difffate/article/details/54092067)  
 [Talend API Tester - Free Edition 浏览器API测试插件](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm)  
 [PythonとSeleniumでブラウザを自動操作する方法まとめ](https://tanuhack.com/selenium/)  
