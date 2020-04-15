@@ -86,6 +86,7 @@
 [swift文章翻译](https://swift.gg/)  
 [qiita swift](https://qiita.com/tags/swift)  
 [Swift之Codable实战技巧](https://zhuanlan.zhihu.com/p/50043306)  
+[【Swift】URLでパスを扱うときに便利なプロパティとメソッド](https://qiita.com/toshi586014/items/52b87c034e411681ca7b)  
 
 ### java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
