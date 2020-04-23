@@ -59,6 +59,7 @@
 [puppeteer](https://github.com/GoogleChrome/puppeteer)  
 [Selenium API](https://www.seleniumqref.com/api/webdriver_gyaku.html)  
 [Seleniumを使ってweb上の画像をスクレイピング](https://qiita.com/keigo_999/items/4766f552e5de6639427d)  
+[scrapy框架循环爬取今日头条热点数据](https://www.jianshu.com/p/073f1183b391)  
 
 ### swift&objective-c
 [AppCoda:swift教学](https://www.appcoda.com.tw/learnswift/)  
