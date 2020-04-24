@@ -105,6 +105,7 @@
 [炫酷动画特效🧙‍](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)  
 [Vue.js](https://cn.vuejs.org/)  
 [NodeJS 开发多人实时对战游戏服务器](https://zhuanlan.zhihu.com/p/114150098)  
+[Vue 3.0 这个迷人的小妖精，到底好在哪里？（更新原理对比）](https://juejin.im/post/5e9ce011f265da47b8450c11)  
 
 ### github
 github Host  
