@@ -31,6 +31,7 @@
 [作图ProcessOn](https://www.processon.com/)  
 [whimsical:在线画图的](https://whimsical.com/pricing)  
 [excalidraw:在线白板画图工具](https://excalidraw.com/)  
+[XMind 是一个全功能的思维导图和头脑风暴软件](https://www.xmind.cn/)  
 [奶牛快传](https://cowtransfer.com/)  
 [uTools:极简、插件化、跨平台的插件工具集合。](https://u.tools/)  
 [Server酱:务器推报警和日志到手机的工具](http://sc.ftqq.com/3.version)  
