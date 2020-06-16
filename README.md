@@ -1,5 +1,5 @@
 # tool
-![]( https://visitor-badge.glitch.me/badge?page_id=<61a2f032-a4f8-454c-a526-7be70c066711>)  
+[]( https://visitor-badge.glitch.me/badge?page_id=<61a2f032-a4f8-454c-a526-7be70c066711>)  
 ***
 ### ATOM   
 [proxy設定](https://selifelog.com/blog-entry-1694.html)
