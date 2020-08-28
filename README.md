@@ -55,6 +55,7 @@
 [没有设计师的时候](https://nodesign.dev/)  
 [设计模式](https://refactoringguru.cn/)  
 [画图工具：手绘风格](https://excalidraw.com/)  
+[程序员专用的词典](https://consoledict.com/)  
 
 ### 爬虫
 [postman:Http请求的工具](https://www.getpostman.com/)  
