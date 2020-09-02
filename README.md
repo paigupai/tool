@@ -70,7 +70,7 @@
 [scrapy框架循环爬取今日头条热点数据](https://www.jianshu.com/p/073f1183b391)  
 [服务器采用scrapyd 部署scrapy项目并设置定时任务](https://www.jianshu.com/p/060ffe018491)  
 
-### swift&objective-c
+### iOS&swift&objective-c
 [AppCoda:swift教学](https://www.appcoda.com.tw/learnswift/)  
 [appcoda](https://www.appcoda.com.tw/)  
 [SwiftUI 里的属性装饰器](https://www.cnblogs.com/xiaoniuzai/p/11417123.html)   
@@ -102,12 +102,13 @@
 [app UI设计](https://dribbble.com/)  
 [colorhunt颜色](https://colorhunt.co/)  
 
-### java
+### backend&java
 [Java架构师学习路线图](https://www.processon.com/view/link/5cb6c8a4e4b059e209fbf369#map)  
 [LocalDateTime 为什么不要使用Date表示时间](https://www.bilibili.com/read/cv4209561)  
 [Spring Boot 系列文章](http://www.ityouknow.com/spring-boot.html)  
 [Java Web 入门开发教程](https://github.com/skyline75489/Heart-First-JavaWeb)  
 [java代码实例](https://www.nowcoder.com/tutorial/10001/5fc0c07cd9d44e66b3baafd76f1f5b9f)  
+[MySQL 与 Postgres 和 SQLite 的对比和优缺点](https://kalasearch.cn/blog/sqlite-mysql-postgres-comparison/)  
 
 ### js
 [炫酷动画特效🧙‍](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)  
