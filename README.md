@@ -56,6 +56,7 @@
 [设计模式](https://refactoringguru.cn/)  
 [画图工具：手绘风格](https://excalidraw.com/)  
 [程序员专用的词典](https://consoledict.com/)  
+[孟坤工具箱(内有让我帮你百度一下)](http://tool.mkblog.cn/)  
 
 ### 爬虫
 [postman:Http请求的工具](https://www.getpostman.com/)  
