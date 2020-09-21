@@ -59,6 +59,7 @@
 [孟坤工具箱(内有让我帮你百度一下)](http://tool.mkblog.cn/)  
 [remote城市排名](https://nomadlist.com/)  
 [LICEcap](https://www.cockos.com/licecap/)  
+[临时邮箱](https://www.snapmail.cc/blog/zh/2019/11/30/how-it-works.html)  
 
 ### 爬虫
 [postman:Http请求的工具](https://www.getpostman.com/)  
