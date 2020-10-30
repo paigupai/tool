@@ -132,3 +132,4 @@ github Host
 [git更改commit message](https://zhuanlan.zhihu.com/p/100243017)  
 git rebase origin/master bugfix/ACWSTEP2X-XXX  
 git status  
+[Git恢复之前版本的两种方法reset、revert](https://blog.csdn.net/yxlshk/article/details/79944535)  
