@@ -60,6 +60,7 @@
 [remote城市排名](https://nomadlist.com/)  
 [LICEcap](https://www.cockos.com/licecap/)  
 [临时邮箱](https://www.snapmail.cc/blog/zh/2019/11/30/how-it-works.html)  
+[ChromeでWEBページ全体をフルスクリーンショット！見ているページの全画面キャプチャー画像をダウンロードする方法](https://requlog.com/self-branding/blog/chrome-full-screen-capture/#:~:text=Google%20Chrome%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%83%BC%E6%96%B9%E6%B3%95&text=Windows%E3%81%AA%E3%82%89%E3%80%8CCtrl%2BShift%2BP%E3%80%8D%E3%80%81Mac%E3%81%AA%E3%82%89,%E6%95%B0%E7%A7%92%E3%81%A7%E4%BF%9D%E5%AD%98%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82)
 
 ### 爬虫
 [postman:Http请求的工具](https://www.getpostman.com/)  
