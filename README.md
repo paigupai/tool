@@ -64,6 +64,7 @@
 [X分钟速成Y](https://learnxinyminutes.com/)  
 [cheatsheets小抄](https://programming-idioms.org/about#about-block-cheatsheets)  
 [Get your Badges](https://poser.pugx.org/)  
+[正则工具](https://wangwl.net/static/projects/visualRegex/)  
 
 ### 爬虫
 [postman:Http请求的工具](https://www.getpostman.com/)  
