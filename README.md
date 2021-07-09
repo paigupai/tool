@@ -65,6 +65,7 @@
 [cheatsheets小抄](https://programming-idioms.org/about#about-block-cheatsheets)  
 [Get your Badges](https://poser.pugx.org/)  
 [正则工具](https://wangwl.net/static/projects/visualRegex/)  
+[为互联网工作者而设计产品/设计师/独立开发者的资源素材库](https://sx.supengjun.com/design/0)  
 
 ### 爬虫
 [postman:Http请求的工具](https://www.getpostman.com/)  
